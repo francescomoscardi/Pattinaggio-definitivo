@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Accesso"},{"p":"<Unnamed>","l":"ConsoleInput"},{"p":"<Unnamed>","l":"FileException"},{"p":"<Unnamed>","l":"Lista"},{"p":"<Unnamed>","l":"MainClass"},{"p":"<Unnamed>","l":"Menu"},{"p":"<Unnamed>","l":"Nodo"},{"p":"<Unnamed>","l":"TextFile"}]
